@@ -32,6 +32,12 @@ body {
   text-align: center;
 
 }
+
+.logo {
+  height:50%;
+  width:50%;
+  padding:5px;
+}
 .container {
   margin-top:5%;
 }
