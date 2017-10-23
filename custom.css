@@ -1,0 +1,41 @@
+/*
+ * Globals
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color:#fff;
+}
+
+/* Custom default button */
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+  color:#555;
+  background-color: #fff;
+}
+
+
+/*
+ * Base structure
+ */
+
+html,
+body {
+  height: 100%;
+  background-color: #545e67;
+}
+body {
+  color: #fff;
+  text-align: center;
+
+}
+.container {
+  margin-top:5%;
+}
+
+.img-thumbnail {
+  margin:2.5%;
+}
